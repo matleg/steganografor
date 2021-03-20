@@ -12,13 +12,13 @@ We show the influence of significant bits by changing their number.
 
 ## Prerequisites
 
-```python
+```bash
 python3.8 -m pip install -r requirements.txt
 ```
 
 ## Use
 
-```python
+```bash
 python steganograformerge.py
 ```
 
