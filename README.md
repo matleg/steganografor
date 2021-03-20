@@ -1,4 +1,4 @@
-# steganografor2000
+# Steganografor
 
 This repository is aimed as a demonstration of how to hide an image inside another using steganography.
 We show the influence of significant bits by changing their number.
